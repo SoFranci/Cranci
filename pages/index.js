@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Cranci Site</title>
+        <title> cranci.netlify.app</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome To my site" />
+        <Header title="Cranci Site" />
         <p className="description">
           If your seeing this<code>Im Death...</code>
         </p>
