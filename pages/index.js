@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title> cranci.netlify.app</title>
+        <title>cranci.netlify.app</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
